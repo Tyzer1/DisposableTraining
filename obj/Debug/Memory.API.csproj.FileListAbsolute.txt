@@ -1,0 +1,11 @@
+D:\.Net6Projs\Disposable\bin\Debug\Memory.API.exe.config
+D:\.Net6Projs\Disposable\bin\Debug\Memory.API.exe
+D:\.Net6Projs\Disposable\bin\Debug\Memory.API.pdb
+D:\.Net6Projs\Disposable\bin\Debug\nunit.framework.dll
+D:\.Net6Projs\Disposable\bin\Debug\nunitlite.dll
+D:\.Net6Projs\Disposable\obj\Debug\Memory.API.csproj.AssemblyReference.cache
+D:\.Net6Projs\Disposable\obj\Debug\Memory.API.csproj.SuggestedBindingRedirects.cache
+D:\.Net6Projs\Disposable\obj\Debug\Memory.API.csproj.CoreCompileInputs.cache
+D:\.Net6Projs\Disposable\obj\Debug\Memory.API.csproj.CopyComplete
+D:\.Net6Projs\Disposable\obj\Debug\Memory.API.exe
+D:\.Net6Projs\Disposable\obj\Debug\Memory.API.pdb
